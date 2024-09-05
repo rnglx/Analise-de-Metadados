@@ -39,6 +39,8 @@ No arquivo meta_analyzer.sh, adicione sua chave da API na variável API_KEY.
 
 nano meta_analyzer.sh
 
+para conseguir a chave de api é simples, basta criar uma conta gratuita no virus total, clicar no seu avatar > API, copiar a chave e colar no campo API_KEY do script.
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ### Uso:
