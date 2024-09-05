@@ -50,7 +50,8 @@ Execute o script passando o domínio e o tipo de arquivo que deseja analisar:
 ./analise_metadados.sh <domínio> <tipo_arquivo>
 
 <domínio>: O domínio onde os arquivos serão buscados (ex: example.com).
+
 <tipo_arquivo>: O tipo de arquivo a ser buscado (ex: pdf, xlsx, jpg).
 
 #####Exemplo:
-./analise_metadados.sh example.com pdf
+./meta_analyzer.sh example.com pdf
