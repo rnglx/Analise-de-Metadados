@@ -22,17 +22,17 @@ sudo apt-get install exiftool lynx curl jq
 ### Instalação da Ferramenta
 Clone este repositório:
 
-git clone https://github.com/seuusuario/meta_analyzer.git
+git clone https://github.com/rnglx/Analise-de-Metadados.git
 
 Acesse a pasta do projeto:
-cd meta_analyzer
+cd Analise-de-Metadados
 
 Dê permissão de execução ao script:
-chmod +x analise_metadados.sh
+chmod +x meta_analyzer.sh
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-### Importante caro queira usar a verificaçao do virus total:
+### Importante caso queira usar a verificaçao do virus total:
 
 Adicione sua chave da API do VirusTotal no script:
 No arquivo meta_analyzer.sh, adicione sua chave da API na variável API_KEY.
